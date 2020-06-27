@@ -128,7 +128,7 @@ def main(argv):
     global stop_now
 	
     target = ''
-    threads = 1000000
+    threads = 9999999
     tor = False
     port = 80
 
